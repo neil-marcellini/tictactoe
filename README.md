@@ -1,5 +1,6 @@
 # Tictactoe
-Simple tictactoe Angular app following this video: https://www.youtube.com/watch?v=G0bBLvWXBvc
+Simple tictactoe Angular app following [this video](https://www.youtube.com/watch?v=G0bBLvWXBvc) 
+[Click Here](https://tictactoe-1eb55.web.app/) to try it out.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
